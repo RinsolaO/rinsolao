@@ -4,7 +4,7 @@ Hi 👋 My name is Oluwaferanmi Olatunji
 Frontend Developer
 ------------------
 
-I am a Cybersecurity enthusiast who has acquired the working knowledge of HTML, CSS, React, Node over the year through self-learning, to build fully responsive, secure and functional web pages
+I am a Cybersecurity enthusiast who has acquired the working knowledge of HTML, CSS, Javascript, React, Node over the year through self-learning, to build fully responsive, secure and functional web pages
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [feranmiayomide@gmail.com](mailto:feranmiayomide@gmail.com)
